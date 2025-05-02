@@ -1,0 +1,49 @@
+Programming language : programming lanuage is a set of instruction given to perform a specif task.
+ex : C , cpp , java 
+main()
+
+
+scriptting langugae: scriptting language is a subset of programming langugae. 
+ex : html , css , javascript , python
+single line -- code 
+
+
+There are two types of pages.
+1. statically pages 
+    - when u declare a variable then u need to declare datatype
+2. dynamically pages
+    - No datatype required
+
+
+JavaScript have no datatype.
+
+Js History :
+Java Script is devloped by brenden eich by 1995. for netscap navigator browser.
+
+javaScript engine :
+- spidermonkey -> firefox 
+- chakra -> internet exporer
+- v8 -> google chrome [node] 
+- javaScript core : safari 
+- rhino : java 
+
+
+javaScript run ?
+-Browser / client side 
+
+
+Thera are three keywords.
+1. var -- global scope
+2. let -- local scope , block scope 
+3. const -- block scope and also can't change there value 
+
+There are three ways to define js.
+1. external js [.js] 
+2. internal js <script>
+3. inline js -- same line 
+
+
+
+Javascript use?
+- To manipulate the dom.[document object model]
+
