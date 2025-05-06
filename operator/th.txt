@@ -1,0 +1,15 @@
+There are three operator :
+1. unary operator
+    - it will required only one operand
+2. binary operator 
+    - it will required two operand
+3. ternary operatro 
+    - it will required three operand
+
+
+Binary operator :
+1. Airthmatic opt : + , - , * , / , % , **
+2. Assignment opt : = ,( += , -= , *= , /= , %=)-- short hand property
+3. logical opt : && , || , !
+4. ralational / comparision opt : == , != , <= , >= , < , >  , === , !== 
+5. bitwsie opt : & , | , ^
