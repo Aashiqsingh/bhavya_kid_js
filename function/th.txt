@@ -1,0 +1,6 @@
+ there are four types of function 
+
+ 1. without return without argument
+ 2. without return type with argument 
+ 3. with return type without argument 
+ 4. with return type with argument 
