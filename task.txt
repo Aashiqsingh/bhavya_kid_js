@@ -1,1 +1,46 @@
 Username : aashiq   --> qihsaa
+
+
+
+----------------------------------------------------------
+callback 
+var ownpin = 6354 
+
+fun checkbal(){
+    let avlbal = 35000;
+    return avlbal;
+}
+
+fun deposit(){
+    Enter your amount : 
+    Mes : Deposited successfully
+    amount + avlbal
+}
+fun withdraw(){
+    Enter your amount :
+    if(amount > avlbal){
+        Mes : Insufficient balance
+        return
+    }
+    avlbal - amount
+    mess: withdrawn successfully
+}
+
+
+
+Are you enter in atm?
+{
+    Enter your acc no:
+    Enter your pin no:
+        (pin == ownpin)
+        {
+            1. check balance
+            2. deposit
+            3. withdraw
+        }{
+            invalid credentials
+        }
+}
+{
+    Thankyou of viitng
+}

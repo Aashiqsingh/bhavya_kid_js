@@ -1,0 +1,8 @@
+javascript -- single threaded application 
+
+
+java - multi threaded application
+
+
+
+callback -- function which is called after the main function is executed
