@@ -117,6 +117,9 @@ var company = [
   ]
 
 
+let x = company.find((comp)=> comp.companyname === "Healthcare Hub")
+console.log(x);
+
 
 
 
