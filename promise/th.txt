@@ -1,0 +1,14 @@
+Promise :   pending -- (fullfilled / rejected) 
+
+
+
+asynchronouse code 
+Javascript bydefault : synchronouse code
+
+There are two types of 
+1. Synchronouse code
+2. Asynchronouse code
+    - block asynchronouse code
+        - then catch
+    - function asynchronouse code
+        - async await
